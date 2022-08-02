@@ -38,7 +38,7 @@ form button:hover{
 }
 
 body{
-    background-image:linear-gradient(to right, #c21500, #ffc500);
+    background-image:linear-gradient(to right, #000000, #ffffff);
     font-family: "poppins",san-serif;
     color: white;    
 }
